@@ -1,8 +1,8 @@
 # Linear Search
 
 ## Inputs
-* `array` - The array
-* `target` - The value to search for
+* `array` - The array to traverse
+* `length` - The length of the array
 * `value` - The target value to search for
 
 ## Output
